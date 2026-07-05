@@ -1,0 +1,6 @@
+{
+  "appId": "com.tellridhay.app",
+  "appName": "TellRidhay",
+  "webDir": "dist",
+  "server": { "androidScheme": "https" }
+}
